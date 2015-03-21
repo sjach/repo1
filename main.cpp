@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-    int x = 100;
+    int x = 1000;
     x++;
     x++;
 
